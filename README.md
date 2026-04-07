@@ -22,7 +22,7 @@ pkg update && pkg upgrade
 
 pkg install git python
 
-git clone https://github.com/salzinclown1/SCLOWN-DDOS.git
+git clone https://github.com/salzinclown1/SCLOWN-DoS.git
 
 cd SCLOWN-DoS
 
