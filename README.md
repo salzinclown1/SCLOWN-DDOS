@@ -4,6 +4,7 @@ SCLOWN-DDOS é uma ferramenta Python para testes de carga web com requisições 
 senhas: 
 
 usuário: salzin
+
 senha: salzin
 
 1 clone o repositório git clone https://github.com/salzinclown1/SCLOWN-DDOS.git
