@@ -6,7 +6,7 @@ senhas:
 usuário: salzin
 senha: salzin
 
-1 clone o repositório git clone: https://github.com/salzinclown1/SCLOWN-DDOS.git
+1 clone o repositório git clone https://github.com/salzinclown1/SCLOWN-DDOS.git
 
 2 cd SCLOWN-DDOS
 
@@ -18,7 +18,7 @@ pkg install git python
 
 git clone https://github.com/salzinclown1/SCLOWN-DDOS.git
 
-cd SCLOWN-DDOS.git
+cd SCLOWN-DDOS
 
 python start.py
 
