@@ -9,9 +9,9 @@ Usuário: salzin
 Senha: salzin
 
 ## Instalação e execução
-git clone https://github.com/salzinclown1/SCLOWN-DoS.git
+git clone https://github.com/salzinclown1/SCLOWN-DOS.git
 
-cd SCLOWN-DoS
+cd SCLOWN-DOS
 
 pip install -r requirements.txt
 
@@ -22,9 +22,9 @@ pkg update && pkg upgrade
 
 pkg install git python
 
-git clone https://github.com/salzinclown1/SCLOWN-DoS.git
+git clone https://github.com/salzinclown1/SCLOWN-DOS.git
 
-cd SCLOWN-DoS
+cd SCLOWN-DOS
 
 pip install -r requirements.txt
 
@@ -35,9 +35,9 @@ sudo apt update && sudo apt upgrade
 
 sudo apt install git python3 python3-pip
 
-git clone https://github.com/salzinclown1/SCLOWN-DoS.git
+git clone https://github.com/salzinclown1/SCLOWN-DOS.git
 
-cd SCLOWN-DoS
+cd SCLOWN-DOS
 
 pip3 install -r requirements.txt
 
