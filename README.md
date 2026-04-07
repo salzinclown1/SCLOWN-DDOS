@@ -1,7 +1,3 @@
-# SCLOWN-DDOS
-
-SCLOWN-DDOS é uma ferramenta desenvolvida em Python para testes de carga em aplicações web. Utiliza requisições assíncronas, rotação de User-Agents e proxies, controle de RPS (requisições por segundo) e gerenciamento de workers. Também inclui logs detalhados e uma interface CLI com banner ASCII.
-
 ## Aviso
 Esta ferramenta deve ser utilizada apenas em ambientes autorizados, como testes próprios ou servidores com permissão explícita. O uso indevido pode violar leis locais.
 
