@@ -1,3 +1,5 @@
+![Banner](assets/Screenshot_2026-04-06-21-41-46-266_com.termux_1.jpg)
+
 ## Aviso
 Esta ferramenta deve ser utilizada apenas em ambientes autorizados, como testes próprios ou servidores com permissão explícita. O uso indevido pode violar leis locais.
 
