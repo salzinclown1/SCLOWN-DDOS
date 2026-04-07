@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 python start.py
 
-## distribuições linux
+## Distribuições linux
 sudo apt update && sudo apt upgrade
 
 sudo apt install git python3 python3-pip
